@@ -1,0 +1,3 @@
+# Psicostat Forum
+
+The idea of Psicostat forum is building a community about data analysis, psychometrics, coding and reproducibility. To access the forum you can press the `Discussion` tab or using this link [https://github.com/orgs/psicostat/discussions](https://github.com/orgs/psicostat/discussions).
